@@ -25,8 +25,7 @@ AUTHOR_FEED_RSS = None
 LINKS = (('Red Eclipse', 'http://redeclipse.net/'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Github team', 'https://github.com/GrayTophatclan-GTC'),)
 
 DEFAULT_PAGINATION = False
 
