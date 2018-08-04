@@ -15,9 +15,10 @@ Currently there are these members:
 * yoho
 * Goldenbrain
 * Naughtius Maximus
-* king
-* damian things
+* King / Emmanuel Macon
 * AAijr
-* (The great guy who hosts some servers but only play sometimes with that loooong name)
+* Zorglub
+* yanto
 * gera
-* and some others
+* linuxero
+* (The great guy who hosts some servers but only play sometimes with that loooong name)
